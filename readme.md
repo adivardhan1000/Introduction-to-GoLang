@@ -1,13 +1,17 @@
 # Getting Started with Go by University of California, Irvine
 My executions for these course. Feel free to refer, fork, understand and explore.
 
-[Week1](https://github.com/adivardhan1000/Introduction-to-GoLang/tree/master/Week1)
+## GettingStartedWithGo
 
-[Week2](https://github.com/adivardhan1000/Introduction-to-GoLang/blob/master/week2)
+[Week1](https://github.com/adivardhan1000/Programming-with-Google-Go-Specialization/tree/master/GettingStartedWithGo/Week1)
 
-[Week3](https://github.com/adivardhan1000/Introduction-to-GoLang/tree/master/Week3)
+[Week2](https://github.com/adivardhan1000/Programming-with-Google-Go-Specialization/tree/master/GettingStartedWithGo/Week2)
 
-[Week4](https://github.com/adivardhan1000/Introduction-to-GoLang/tree/master/Week4)
+[Week3](https://github.com/adivardhan1000/Programming-with-Google-Go-Specialization/tree/master/GettingStartedWithGo/Week3)
+
+[Week4](https://github.com/adivardhan1000/Programming-with-Google-Go-Specialization/tree/master/GettingStartedWithGo/Week4)
+
+## Functions, Methods, and Interfaces in Go
 
 ## About me: 
 My name is Adivardhan Maheshwari. I am final year student in Electronics and Communication continuosly exploring new technologies.
